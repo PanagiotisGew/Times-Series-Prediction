@@ -1,4 +1,5 @@
 Weather Data Time Series Forecasting with LSTM
+
 Author: Panagiotis Georgiadis
 
 This Python code demonstrates how to use Long Short-Term Memory (LSTM) networks for time series forecasting with weather data. The example focuses on predicting weather parameters such as temperature, humidity, and sea-level pressure for a specific location.
